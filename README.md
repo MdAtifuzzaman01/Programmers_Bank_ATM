@@ -1,2 +1,2 @@
 # Programmers_Bank_ATM
-My ow Bank ATM with python
+My own Bank ATM with python
